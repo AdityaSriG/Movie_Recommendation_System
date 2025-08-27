@@ -60,16 +60,20 @@ Dataset source: [Kaggle - TMDB 5000 Movie Dataset](https://www.kaggle.com/datase
 3. Run the notebook or script:
    ```bash
    jupyter notebook movie_recommender.ipynb
-  OR
-  ```bash
-  python main.py
-```
+   ```
+   OR
+   ```
+   python main.py
+   ```
 
 ---
 
 📊 Example Results
 
-Input: recommend("Iron Man")
+Input: 
+```
+recommend("Iron Man")
+```
 Output:
 ```
 Iron Man 2
