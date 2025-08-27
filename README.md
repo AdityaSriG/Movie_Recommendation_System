@@ -27,7 +27,7 @@ Dataset source: [Kaggle - TMDB 5000 Movie Dataset](https://www.kaggle.com/datase
 ---
 
 ## ⚙️ Tech Stack
-- **Python** 🐍
+- **Python**
 - **Libraries**: 
   - NumPy, Pandas, Seaborn  
   - NLTK (Natural Language Toolkit)  
