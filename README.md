@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 A simple **content-based movie recommendation system** built using **NLP techniques** and **Cosine Similarity**.  
 This project uses the [TMDB 5000 Movies Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) to recommend similar movies based on their **overview, genres, keywords, cast, and crew**.
@@ -68,7 +68,7 @@ Dataset source: [Kaggle - TMDB 5000 Movie Dataset](https://www.kaggle.com/datase
 
 ---
 
-📊 Example Results
+## Example Results
 
 Input: 
 ```
