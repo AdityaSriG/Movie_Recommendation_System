@@ -52,3 +52,29 @@ Dataset source: [Kaggle - TMDB 5000 Movie Dataset](https://www.kaggle.com/datase
    ```bash
    git clone https://github.com/your-username/movie-recommender.git
    cd movie-recommender
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook or script:
+   ```bash
+   jupyter notebook movie_recommender.ipynb
+  OR
+  ```bash
+  python main.py
+```
+
+---
+
+📊 Example Results
+
+Input: recommend("Iron Man")
+Output:
+```
+Iron Man 2
+Iron Man 3
+The Avengers
+Avengers: Age of Ultron
+Captain America: Civil War
+```
